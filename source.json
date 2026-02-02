@@ -13,7 +13,8 @@
         "text": "View on GitHub"
     },
     "githubRepos": [
-        "KiriumeStand/MultipleFieldBulkChanger"
+        "KiriumeStand/MultipleFieldBulkChanger",
+        "KiriumeStand/KSAssetsCloner"
     ],
     "packages": []
 }
