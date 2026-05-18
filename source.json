@@ -12,6 +12,8 @@
         "url": "https://github.com/k-stand/vpm-repos",
         "text": "View on GitHub"
     },
-    "githubRepos": [],
+    "githubRepos": [
+        "k-stand/KSAnimatorClipboard",
+    ],
     "packages": []
 }
