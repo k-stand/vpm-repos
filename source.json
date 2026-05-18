@@ -1,20 +1,17 @@
 {
-    "name": "KiriumeStand's VPM Packages",
-    "id": "io.github.kiriumestand.vpm-repos",
-    "url": "https://kiriumestand.github.io/vpm-repos/index.json",
+    "name": "K-Stand's VPM Packages",
+    "id": "com.github.k-stand.vpm-repos",
+    "url": "https://k-stand.github.io/vpm-repos/index.json",
     "author": {
         "email": "",
-        "name": "KiriumeStand",
+        "name": "K-Stand",
         "url": "https://kiriume-stand.booth.pm"
     },
-    "description": "KiriumeStand's VPM Packages",
+    "description": "K-Stand's VPM Packages",
     "infoLink": {
-        "url": "https://github.com/KiriumeStand/vpm-repos",
+        "url": "https://github.com/k-stand/vpm-repos",
         "text": "View on GitHub"
     },
-    "githubRepos": [
-        "KiriumeStand/MultipleFieldBulkChanger",
-        "KiriumeStand/KSAssetsCloner"
-    ],
+    "githubRepos": [],
     "packages": []
 }
