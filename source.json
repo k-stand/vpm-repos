@@ -14,6 +14,7 @@
     },
     "githubRepos": [
         "k-stand/KSAnimatorClipboard",
+        "k-stand/KSAssetsCloner",
     ],
     "packages": []
 }
